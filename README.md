@@ -10,5 +10,8 @@ Building this app from scratch using Vanilla JavaScript, HTML, CSS web applicati
 
 # Lessons Learned 
 -Working with audio tag and video tag in HTML
--How to change sounds with javascript
--Manipulating videos with javascript
+-How to change sounds with JavaScript
+-Manipulating videos with JavaScript
+
+
+This tutorial is inspired from DevEdwin
